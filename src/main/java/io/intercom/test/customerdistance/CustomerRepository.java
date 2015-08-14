@@ -5,6 +5,9 @@ import java.util.Collections;
 import java.util.List;
 
 /**
+ *
+ * The source of customers
+ *
  * @author nailgun
  * @since 13.08.15
  */

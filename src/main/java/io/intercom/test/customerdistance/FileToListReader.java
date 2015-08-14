@@ -7,6 +7,9 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
+ *
+ * Reads lines from text file
+ *
  * @author nailgun
  * @since 11.08.15
  */

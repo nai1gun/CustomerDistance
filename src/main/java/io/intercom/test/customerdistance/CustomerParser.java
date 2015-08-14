@@ -6,6 +6,9 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
+ *
+ * Transforms customers from JSON to Java objects
+ *
  * @author nailgun
  * @since 11.08.15
  */

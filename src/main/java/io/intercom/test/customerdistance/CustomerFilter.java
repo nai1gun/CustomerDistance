@@ -4,6 +4,9 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
+ *
+ * Chooses only applicable customers
+ *
  * @author nailgun
  * @since 13.08.15
  */

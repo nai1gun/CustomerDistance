@@ -3,6 +3,9 @@ package io.intercom.test.customerdistance;
 import java.util.List;
 
 /**
+ *
+ * Prints customers to command line
+ *
  * @author nailgun
  * @since 13.08.15
  */

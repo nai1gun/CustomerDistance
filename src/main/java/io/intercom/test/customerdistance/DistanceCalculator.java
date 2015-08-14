@@ -1,6 +1,9 @@
 package io.intercom.test.customerdistance;
 
 /**
+ *
+ * Calculates distance between points
+ *
  * @author nailgun
  * @since 12.08.15
  */

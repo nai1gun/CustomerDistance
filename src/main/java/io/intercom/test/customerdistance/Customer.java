@@ -1,6 +1,9 @@
 package io.intercom.test.customerdistance;
 
 /**
+ *
+ * Customer bean
+ *
  * @author nailgun
  * @since 11.08.15
  */
