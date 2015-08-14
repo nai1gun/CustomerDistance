@@ -5,7 +5,7 @@ Simple java application which calculates distance from certain point to all cust
 # Pre requirements
 
 * Java 8
-* Mavan 3
+* Maven 3
 
 # How to build
 
